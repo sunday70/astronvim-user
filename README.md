@@ -30,3 +30,9 @@ git clone https://github.com/sunday70/astronvim-user.git ~/.config/nvim/lua/user
 ```shell
 nvim
 ```
+
+#### 修改274行键冲突
+
+```shell
+nvim .config/nvim/lua/astronvim/utils/lsp.lua
+```
