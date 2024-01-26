@@ -36,3 +36,7 @@ nvim
 ```shell
 nvim .config/nvim/lua/astronvim/utils/lsp.lua
 ```
+
+#### ⚠️ 警告
+
+nvim -M 模式不可用 (仅大写M)
